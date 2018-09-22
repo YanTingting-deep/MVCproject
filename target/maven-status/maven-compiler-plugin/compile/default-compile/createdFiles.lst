@@ -1,0 +1,5 @@
+service\ProductServiceImpl.class
+form\ProductForm.class
+service\ProductService.class
+controller\ProductController.class
+domain\Product.class
